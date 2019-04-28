@@ -192,7 +192,7 @@ nav {
   float: right;
   line-height: 32px;
   margin-bottom: 0;
-  padding-top: 16px;
+  padding-top: 12px; /* this was 16*/
 }
 
 nav ul li {
@@ -211,7 +211,7 @@ nav ul li a {
   color: #999999;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
-  line-height: 8px; /* was 16 */
+  line-height: 4px; /* was 16 */
   text-transform: uppercase;
   letter-spacing: 0.02em;
   text-transform: capitalize;
