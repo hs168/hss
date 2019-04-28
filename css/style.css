@@ -83,11 +83,11 @@ nav ul li a {
 }
 
 p {
-  margin: 1px 0; /* this used to be 25 */
+  margin: .1px 0; /* this used to be 25 */
   padding: 0;
   font-size: 15px; /* this used to be 15 */
   color: #999999;
-  line-height: 1px; /* this used to be 28 */
+  line-height: .1px; /* this used to be 28 */
 }
 
 ::-moz-selection {
