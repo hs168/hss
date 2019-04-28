@@ -211,7 +211,7 @@ nav ul li a {
   color: #999999;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
-  line-height: 16px;
+  line-height: 8px; /* was 16 */
   text-transform: uppercase;
   letter-spacing: 0.02em;
   text-transform: capitalize;
