@@ -90,6 +90,14 @@ p {
   line-height: 28px; /* this used to be 28 */
 }
 
+pp {
+  margin: .00001px 0; /* this used to be 25 */
+  padding: 0;
+  font-size: 15px; /* this used to be 15 */
+  color: #999999;
+  line-height: .00001px; /* this used to be 28 */
+}
+
 ::-moz-selection {
   background: #b8a07e;
   color: #fff;
